@@ -1,3 +1,4 @@
-1-Testando a primeira alteração do repositorio...
-2-Testando a segunda alteração do repositorio...
+comando :
+$ git push origin master
+Testado com sucesso!
 
